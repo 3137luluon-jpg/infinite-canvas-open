@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env*
+infinite-canvas-config*.json
+.backup-test-data/
+*.log
